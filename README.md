@@ -3,12 +3,11 @@
 
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
 - Hackathon Enthusiast Person :smile:
-- Interested in Flutter. :grinning:
-- Currently learning CP and Flutter. :star_struck:
-- I’m learning java too. :muscle:
+- Interested in Backend Development. :grinning:
+- Currently learning MERN Stack. :star_struck:
 - I love exploring and learning new skills as well as implement those in my projects.
 - I love taking parts in hackathons. :sunglasses:
-- Most important thing :heart: I enjoy what I do. :heart:
+- Most important thing : I enjoy what I do. :heart:
  ---
  🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/rahulhind/count.svg?align=center)
@@ -51,7 +50,7 @@
 <a href="https://www.linkedin.com/in/rahulhind/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:username78588@gmail.com@gmail.com">
+<a href="mailto:username78588@gmail.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
