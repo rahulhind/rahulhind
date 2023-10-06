@@ -3,8 +3,8 @@
 
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
 - Hackathon Enthusiast Person :smile:
-- Interested in Backend Development. :grinning:
-- Currently learning MERN Stack. :star_struck:
+- Interested in Machine Learning/AI, Fullstack Development and Competitive Programming. :grinning:
+- Currently learning MERN Stack Development, Machine Learning and Generative AI. :star_struck:
 - I love exploring and learning new skills as well as implement those in my projects.
 - I love taking parts in hackathons. :sunglasses:
 - Most important thing : I enjoy what I do. :heart:
